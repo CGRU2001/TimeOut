@@ -1,7 +1,7 @@
 # TimeOut
 An timeOut Wrapper
 
-#How to import?
+# How to import?
 
 If you want to use my library in Maven you have to copy those codes on your pom.xml.
 
