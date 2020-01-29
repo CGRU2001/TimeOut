@@ -16,7 +16,7 @@ First, you have to import the jitpack repository, because is where TimeOut libra
   
   Next, you can import the dependency. You can do this adding the next code to your pom.xml:
   
-  <dependency>
+  	<dependency>
 	    <groupId>com.github.CGRU2001</groupId>
 	    <artifactId>TimeOut</artifactId>
 	    <version>Tag</version>
