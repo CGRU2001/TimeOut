@@ -3,7 +3,7 @@ An timeOut Wrapper
 
 # How to import?
 
-If you want to use my library in Maven you have to copy those codes on your pom.xml.
+If you want to use my library with Maven you have to copy those codes on your pom.xml.
 
 First, you have to import the jitpack repository, because is where TimeOut libraries stored. You can do it adding the next code to your pom.xml:
 
