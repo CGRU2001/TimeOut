@@ -10,7 +10,16 @@ package com.carlos.timeout;
  * @author carlos
  */
 public class TimeOut {
-    public static void symbols(String simbol, int repeats){
-        
+    public static void symbols(String symbol, int repeats){
+        try {
+            System.out.print("-*-");
+            for (int i = repeats; i > 0; i--) {
+                System.out.print(symbol);
+                Thread.sleep(1000);
+            }
+            System.out.println("");//Añade un salto de línea
+        } catch (InterruptedException ie) {
+            System.out.println("Congrats! You've found a bug!");
+        }
     }
 }
