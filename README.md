@@ -1,5 +1,5 @@
 # TimeOut
-An timeOut Wrapper
+An timeOut Class
 
 # How to import?
 
